@@ -20,7 +20,7 @@ class ArticlesController < ApplicationController
   end
 
   def show
-  end
+end
 
   def edit
   end
